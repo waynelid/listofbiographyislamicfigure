@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	MY:10:Cyberjaya:2.97:101.66:v4
+ms.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-DP	ad2,d2a,740,ddf,97f,de3,808,673,448
+ms.wikipedia.org	TRUE	/	FALSE	1999999999	include_pv	0
+ms.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	25-May-2024
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	25-May-2024
+ms.wikipedia.org	TRUE	/	FALSE	1999999999	CentralAuthAnonTopLevel	1
+ms.m.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	25-May-2024
+ms.m.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	25-May-2024
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	MY:02:Alor_Star:6.06:100.38:v4
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+ms.wikipedia.org	TRUE	/	FALSE	1999999999	mswikiSession	qfgn20stvtdp4q2cgk1hd781b60oun75
+ms.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+ms.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+
