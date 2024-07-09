@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+salam.my	TRUE	/	FALSE	1999999999	wpzerospam_ip_checked	183.171.101.127
+salam.my	TRUE	/	FALSE	1999999999	wpzerospam_has_access	1
+salam.my	TRUE	/	FALSE	1999999999	wpzerospam_access_checked	deleted
+salam.my	TRUE	/	FALSE	1999999999	wpzerospam_cached	cookie
+salam.my	TRUE	/	FALSE	1999999999	wpzerospam_blacklist_api	deleted
+salam.my	TRUE	/	FALSE	1999999999	wpzerospam_attempts	deleted
+

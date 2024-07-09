@@ -1,0 +1,274 @@
+body.g1-layout-boxed {
+background-color: #e6e6e6;
+}
+
+.g1-layout-boxed .g1-row-layout-page {
+max-width: 1212px;
+}
+
+/* Global Color Scheme */
+.g1-row-layout-page > .g1-row-background,
+.g1-sharebar > .g1-row-background,
+.g1-current-background {
+background-color: #ffffff;
+}
+
+input,
+select,
+textarea {
+border-color: #cccccc;
+}
+
+
+a,
+.entry-title > a:hover,
+.entry-meta a:hover,
+.menu-item > a:hover,
+.current-menu-item > a,
+.mtm-drop-expanded > a,
+.g1-link-right:after,
+.g1-link-left:before,
+.g1-nav-single-prev > a > span:before,
+.g1-nav-single-next > a > span:after,
+.g1-nav-single-prev > a:hover > strong,
+.g1-nav-single-prev > a:hover > span,
+.g1-nav-single-next > a:hover > strong,
+.g1-nav-single-next > a:hover > span,
+#primary .mashsb-main .mashsb-count {
+color: #000000;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.g1-button-solid,
+.g1-button-solid:hover,
+.g1-arrow-solid,
+.entry-categories .entry-category:hover,
+.author-link,
+.author-info .author-link,
+.g1-box-icon,
+.snax .snax-voting-simple .snax-voting-upvote:hover,
+.snax .snax-voting-simple .snax-voting-downvote:hover,
+.wyr-reaction:hover .wyr-reaction-button,
+.wyr-reaction-voted .wyr-reaction-button,
+.wyr-reaction .wyr-reaction-bar {
+border-color: #ffd700;
+background-color: #ffd700;
+color: #000000;
+}
+
+.entry-counter:before {
+border-color: #ffd700;
+background-color: #ffd700;
+color: #ffd700;
+}
+
+.entry-counter:after {
+color: #000000;
+}
+
+
+
+.g1-button-simple,
+input.g1-button-simple,
+button.g1-button-simple {
+	border-color: currentColor;
+	background-color: transparent;
+	color: #ffd700;
+}
+
+
+
+.g1-drop-toggle-arrow {
+color: #ffffff;
+}
+
+
+.g1-quick-nav-tabs .menu-item-type-g1-trending > a,
+.entry-flag-trending {
+border-color: #ffd700;
+background-color: #ffd700;
+color: #fff;
+}
+
+.g1-quick-nav-tabs .menu-item-type-g1-hot > a,
+.entry-flag-hot {
+border-color: #ffd700;
+background-color: #ffd700;
+color: #fff;
+}
+
+.g1-quick-nav-tabs .menu-item-type-g1-popular > a,
+.entry-flag-popular {
+border-color: #ffd700;
+background-color: #ffd700;
+color: #fff;
+}
+
+
+@media only screen and ( min-width: 801px ) {
+.g1-header .g1-id {
+margin-top: 10px;
+margin-bottom: 8px;
+}
+
+.g1-header .g1-quick-nav {
+margin-top: 10px;
+margin-bottom: 8px;
+}
+}
+
+
+
+.g1-header a {
+	color: #000000;
+}
+
+.g1-header a:hover,
+.g1-header .menu-item:hover > a,
+.g1-header .current-menu-item > a,
+.g1-navbar .current-menu-ancestor > a,
+.g1-header .menu-item-object-post_tag > a:before {
+color: #ffd700;
+}
+
+.g1-header > .g1-row-background {
+border-color: #ffffff;
+background-color: #ffffff;
+}
+
+
+.g1-navbar {
+border-color: #ffd700;
+background-color: #ffd700;
+}
+
+
+.g1-navbar a {
+color: #000000;
+}
+
+.g1-navbar a:hover,
+.g1-navbar .menu-item:hover > a,
+.g1-navbar .current-menu-item > a,
+.g1-navbar .current-menu-ancestor > a,
+.g1-navbar .menu-item-object-post_tag > a:before {
+color: #000000;
+}
+
+.g1-navbar .sub-menu,
+.g1-header .sub-menu {
+border-color: #ffffff;
+background-color: #ffffff;
+}
+
+.g1-navbar .sub-menu a,
+.g1-header .sub-menu a {
+color: #666666;
+}
+
+.g1-header .g1-link-toggle,
+.g1-navbar .g1-link-toggle {
+color: #ffffff;
+}
+
+.g1-navbar .sub-menu a:hover,
+.g1-header .sub-menu a:hover,
+.g1-navbar .sub-menu .menu-item:hover > a,
+.g1-header .sub-menu .menu-item:hover > a,
+.g1-navbar .sub-menu .current-menu-item > a,
+.g1-header .sub-menu .current-menu-item > a,
+.g1-navbar .sub-menu .current-menu-ancestor > a,
+.g1-header .sub-menu .current-menu-ancestor > a {
+color: #ffd700;
+}
+
+.g1-header .g1-drop-toggle-badge,
+.g1-header .snax-button-create,
+.g1-header .snax-button-create:hover,
+.g1-navbar .g1-drop-toggle-badge,
+.g1-navbar .snax-button-create,
+.g1-navbar .snax-button-create:hover {
+	border-color: #000000;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+/* Prefooter Theme Area */
+.g1-prefooter > .g1-row-background,
+.g1-prefooter .g1-current-background {
+background-color: #f2f2f2;
+}
+
+
+.g1-prefooter h1,
+.g1-prefooter h2,
+.g1-prefooter h3,
+.g1-prefooter h4,
+.g1-prefooter h5,
+.g1-prefooter h6,
+.g1-prefooter .g1-mega,
+.g1-prefooter .g1-alpha,
+.g1-prefooter .g1-beta,
+.g1-prefooter .g1-gamma,
+.g1-prefooter .g1-delta,
+.g1-prefooter .g1-epsilon,
+.g1-prefooter .g1-zeta,
+.g1-prefooter blockquote,
+.g1-prefooter .widget_recent_entries a,
+.g1-prefooter .widget_archive a,
+.g1-prefooter .widget_categories a,
+.g1-prefooter .widget_meta a,
+.g1-prefooter .widget_pages a,
+.g1-prefooter .widget_recent_comments a,
+.g1-prefooter .widget_nav_menu .menu a {
+color: #000000;
+}
+
+.g1-prefooter {
+color: #666666;
+}
+
+.g1-prefooter .entry-meta {
+color: #999999;
+}
+
+.g1-prefooter input,
+.g1-prefooter select,
+.g1-prefooter textarea {
+border-color: #bfbfbf;
+}
+
+.g1-prefooter input[type="submit"],
+.g1-prefooter input[type="reset"],
+.g1-prefooter input[type="button"],
+.g1-prefooter button,
+.g1-prefooter .g1-button-solid,
+.g1-prefooter .g1-button-solid:hover,
+.g1-prefooter .g1-box-icon {
+border-color: #ffd700;
+background-color: #ffd700;
+color: #ffffff;
+}
+
+
+/* Footer Theme Area */
+.g1-footer > .g1-row-background,
+.g1-footer .g1-current-background {
+background-color: #f2f2f2;
+}
+
+.g1-footer {
+color: #666666;
+}
+
+.g1-footer-text {
+color: #999999;
+}
+
+.g1-footer a:hover,
+.g1-footer-nav a:hover {
+color: #ffd700;
+}
