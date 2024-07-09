@@ -1,0 +1,86 @@
+/* css-about us */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 10px;
+	background-image: url('picture 2.webp');
+	text-align: center;
+
+}
+
+header {
+    background: #e8d1c5;
+    color: #0A0A0A;
+    padding: 2px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+    position: relative;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    display: inline-block;
+	
+}
+
+nav ul ul {
+    position: absolute;
+    top: 100%; /* Position just below the parent list item */
+    left: 0;
+    background: #333;
+    display: none; /* Hide the dropdown by default */
+}
+
+nav ul ul li {
+    display: block; /* Stack the dropdown items vertically */
+}
+
+nav li a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+
+
+section {
+    padding: 200px;
+    background: #F6EDEE;
+	border: 2px solid black;
+    text-align: center;
+	width:900px;
+	position: center;
+	margin-left: 280px;
+	
+	
+
+	
+}
+
+
+
+footer {
+    background: #e8d1c5;
+    color: #0A0A0A;
+    text-align: center;
+    padding: 15px;
+    position: center;
+    width: 100%;
+    bottom: 0;
+}
